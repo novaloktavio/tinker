@@ -1,0 +1,360 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.atasheader{
+	background-color:#864300;
+	height:6px;
+	width:171px;
+	float:left;
+}
+
+.atasheader1{
+	background-color:#ff6517;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasheader2{
+	background-color:#c2ba00;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasheader3{
+	background-color:#00c1d2;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasheader4{
+	background-color:#ffaa19;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasheader5{
+	background-color:#dd008a;
+	height:6px;
+	width:166px;
+	float:left;
+}
+
+.atasheader6{
+	background-color:#864300;
+	height:6px;
+	width:166px;
+	float:left;
+}
+
+.atasheader7{
+	background-color:#ff6517;
+	height:6px;
+	width:166px;
+	float:left;
+}
+
+.content{
+	margin:0px;
+	padding:0px;
+	background: #fff;
+	width: 85%;
+	margin: 20px auto;
+}
+
+.header{
+	margin:0px;
+	padding:0px;
+}
+
+ul,li{
+	margin:5px 15px;
+	padding:13px 15px;
+	display:inline-block;
+	font-size:20px;
+	float:right;
+	text-align:center;
+	color:#78879E;
+}
+
+
+#banner1{
+	height:100%;
+	width:100%;
+	margin-bottom:50px;
+}
+
+.atasnav{
+	background-color:#FFBF5A;
+	height:3px;
+}
+
+.judulnav{
+	padding-top:10px;
+	padding-bottom:10px;
+	background:#fff;
+	text-align:center;
+	font-size:30px;
+	color:#FFBF5A;
+}
+
+.bawahnav{
+	background-color:#FFBF5A;
+	height:3px;
+}
+
+.navbar{
+	margin:7px 140px;
+	padding:13px 15px;
+	display:inline-block;
+	font-size:20px;
+}
+
+.navbar li{
+	background-color:#FFBF5A;
+	border-radius:15px;
+	color:red;
+	box-shadow: 0px -5px rgba(0, 0, 0, 0.2) inset;
+}
+
+.navbar li:hover{
+	background:#FC7044;
+}
+
+.isi{
+	color:#404040;
+	text-align:center;
+	overflow:hidden;
+}
+
+.isinav{
+	text-align:center;
+	width:200px;
+	float:left;
+	margin:20px;
+	padding:20px;
+	border-radius:10px 10px 10px 10px;
+}	
+
+#isinya{
+	color:#FC7044;
+	margin-bottom:-50px;
+	text-align:left;
+}
+
+p{
+	color:#78879E;
+}
+
+#fotonav{
+	width:250px;
+	height:120px;
+	padding:20px 10px;
+	margin:5px 20px -20px -10px;
+}
+
+.load{
+	text-decoration:bold;
+	margin:40px 500px;
+	padding:15px 30px;
+	display:inline-block;
+	font-size:15px;
+	background-color:#FC7044;
+	border-radius:20px;
+	color:#fff;
+	box-shadow: 0px -5px rgba(0, 0, 0, 0.2) inset;
+}
+
+.ataspartner{
+	background-color:#FFBF5A;
+	height:3px;
+}
+
+.partner{
+	padding-top:10px;
+	padding-bottom:10px;
+	width:100%;
+	background:#fff;
+	text-align:center;
+	font-size:30px;
+	color:#FFBF5A;
+}
+
+.bawahpartner{
+	background-color:#FFBF5A;
+	height:3px;
+}
+
+#fotopartner1{
+	padding:35px 45px;
+	margin:5px 20px -20px 20px;
+	height:80px;
+	width:220px;
+}
+
+#fotopartner2{
+	padding:35px 20px;
+	margin:5px 20px -20px 20px;
+	height:74px;
+	width:154px;
+}
+
+#fotopartner3{
+	padding:35px 45px;
+	margin:5px 20px -20px 20px;
+	height:100px;
+	width:100px;
+}
+
+#fotopartner4{
+	padding:35px 45px;
+	margin:5px 20px -20px 20px;
+	height:100px;
+	width:172;
+}
+
+.atasfooter{
+	background-color:#864300;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasfooter1{
+	background-color:#ff6517;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasfooter2{
+	background-color:#c2ba00;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasfooter3{
+	background-color:#00c1d2;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasfooter4{
+	background-color:#ffaa19;
+	height:6px;
+	width:170px;
+	float:left;
+}
+
+.atasfooter5{
+	background-color:#dd008a;
+	height:6px;
+	width:167px;
+	float:left;
+}
+
+.atasfooter6{
+	background-color:#864300;
+	height:6px;
+	width:166px;
+	float:left;
+}
+
+.atasfooter7{
+	background-color:#ff6517;
+	height:6px;
+	width:166px;
+	float:left;
+}
+
+.footer{
+	background:#E4E4E4;
+	height:300px;
+	padding:0px 0px 50px 0px;
+}
+
+.isifooter{
+	text-align:center;
+	width:250px;
+	float:left;
+	margin:60px -30px 0px 100px;
+}	
+
+#dalemfooter{
+	color:#FC7044;
+	text-align:left;
+}
+
+#dalemfooter1{
+	padding:0px -20px;
+	margin: 0px -10px 0px -300px;
+	color:#FC7444;
+}
+
+#dalemfooter li{
+	background-color:#FFBF5A;
+	border-radius:15px;
+	color:#fff;
+	box-shadow: 0px -5px rgba(0, 0, 0, 0.2) inset;
+	float:left;
+	font-size:15px;
+	margin:0px 32px 0px -30px;
+	padding:10px;
+}
+
+#dalemfooter li:hover{
+	background:#FC7044;
+}
+
+#logofooter{
+	width:180px;
+	height:70px;
+	padding:-10px 30px;
+}
+
+form {
+    width:500px;
+    margin:50px auto;
+}
+.search {
+    padding:8px 15px;
+	background-color:#FFBF5A;
+	border-radius:8px;	
+}
+
+#logosearch{
+	height:25px;
+	width:25px;
+	margin:-17px 0px -8px -36px;
+}
+
+.button {
+    padding:6px 15px;
+    background-color:#FC7044;
+	border-radius:8px;
+}
+
+.copyright{
+	background:#484A4E;
+	text-align:center;
+	color:#C5C6C8;
+	height:25px;
+	padding:25px;
+}
+
+
+
+
+
+
+
+
+
+
